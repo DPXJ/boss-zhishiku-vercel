@@ -1,0 +1,5 @@
+{
+  "name": "boss-zhishiku-vercel",
+  "version": "1.0.0",
+  "main": "api/fastgpt.js"
+} 
